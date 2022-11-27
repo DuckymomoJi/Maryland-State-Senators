@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Locations of Maryland State Senators</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <center>
+    <h1>Maryland State Senators Information</h1>
+  </center>
+  <center>
+    <h5 style="color: red">Republican</h5>
+  </center>
+  <center>
+    <h5 style="color: blue">Democrat</h5>
+  </center>
+  <p>District 1:</p>
+  <p style="color: red">George C. Edwards</p>
+  <p>Year Elected: 2006</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Allegany+County,+MD/@39.5805705,-78.8308647,11z/data=!3m1!4b1!4m5!3m4!1s0x89ca87f926e78775:0xd32d4b3ac7ba3651!8m2!3d39.6255251!4d-78.6114999'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 2:</p>
+  <p style="color: red">Paul D. Corderman</p>
+  <p>Year Elected: 2020</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Frederick+County,+MD/@38.5373541,-76.6520165,11z/data=!4m5!3m4!1s0x89cad59974a801b3:0x77b2602787f5e619!8m2!3d39.3844507!4d-77.4701972'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 3:</p>
+  <p style="color: blue">Ronald N. Young</p>
+  <p>Year Elected: 2010</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Allegany+County,+MD/@39.5805705,-78.8308647,11z/data=!3m1!4b1!4m5!3m4!1s0x89ca87f926e78775:0xd32d4b3ac7ba3651!8m2!3d39.6255251!4d-78.6114999'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 4:</p>
+  <p style="color: red">Michael Hough</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Carroll+County,+MD/@39.5346325,-77.049329,11z/data=!3m1!4b1!4m5!3m4!1s0x89c81ec2cabfff83:0xb036703ac39a2750!8m2!3d39.5423418!4d-77.0564464'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 5:</p>
+  <p style="color: red">Justin Ready</p>
+  <p>Year Elected: 2015</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Carroll+County,+MD/@39.5346325,-77.049329,11z/data=!3m1!4b1!4m5!3m4!1s0x89c81ec2cabfff83:0xb036703ac39a2750!8m2!3d39.5423418!4d-77.0564464'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 6:</p>
+  <p style="color: red">Johnny Ray Salling</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore+County,+MD/@39.4391567,-76.8718211,10z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x2774e0a871602819!8m2!3d39.4647665!4d-76.7336521'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 7:</p>
+  <p style="color: red">J. B. Jennings</p>
+  <p>Year Elected: 2010</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore+County,+MD/@39.4391567,-76.8718211,10z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x2774e0a871602819!8m2!3d39.4647665!4d-76.7336521'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 8:</p>
+  <p style="color: blue">Katherine A. Klausmeier</p>
+  <p>Year Elected: 2002</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore+County,+MD/@39.4391567,-76.8718211,10z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x2774e0a871602819!8m2!3d39.4647665!4d-76.7336521'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 9:</p>
+  <p style="color: blue">Katie Fry Hester</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Carroll+County,+MD/@39.5346325,-77.049329,11z/data=!3m1!4b1!4m5!3m4!1s0x89c81ec2cabfff83:0xb036703ac39a2750!8m2!3d39.5423418!4d-77.0564464'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 10:</p>
+  <p style="color: blue">Delores G. Kelley</p>
+  <p>Year Elected: 1994</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore+County,+MD/@39.4391567,-76.8718211,10z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x2774e0a871602819!8m2!3d39.4647665!4d-76.7336521'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 11:</p>
+  <p style="color: blue">Shelly L. Hettleman</p>
+  <p>Year Elected: 2020</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore+County,+MD/@39.4391567,-76.8718211,10z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x2774e0a871602819!8m2!3d39.4647665!4d-76.7336521'><button>Location</button></a>
+  <p> </p>
+
+
+  <p>District 12:</p>
+  <p style="color: blue">Clarence K. Lam</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore+County,+MD/@39.4391567,-76.8718211,10z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x2774e0a871602819!8m2!3d39.4647665!4d-76.7336521'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 13:</p>
+  <p style="color: blue">Guy Guzzone</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Howard+County,+MD/@39.2364342,-77.2219556,10z/data=!3m1!4b1!4m5!3m4!1s0x89c82690abe1981f:0x5a8ad4ff03e4d892!8m2!3d39.2873463!4d-76.964306'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 14:</p>
+  <p style="color: blue">Craig Zucker</p>
+  <p>Year Elected: 2016</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Montgomery+County,+MD/@39.1441197,-77.4882713,10z/data=!3m1!4b1!4m5!3m4!1s0x89b6323583b8a387:0x780b190677a96873!8m2!3d39.1547426!4d-77.2405153'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 15:</p>
+  <p style="color: blue">Brian Feldman</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Montgomery+County,+MD/@39.1441197,-77.4882713,10z/data=!3m1!4b1!4m5!3m4!1s0x89b6323583b8a387:0x780b190677a96873!8m2!3d39.1547426!4d-77.2405153'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 16:</p>
+  <p style="color: blue">Susan C. Lee</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Montgomery+County,+MD/@39.1441197,-77.4882713,10z/data=!3m1!4b1!4m5!3m4!1s0x89b6323583b8a387:0x780b190677a96873!8m2!3d39.1547426!4d-77.2405153'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 17:</p>
+  <p style="color: blue">Cheryl Kagan</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Montgomery+County,+MD/@39.1441197,-77.4882713,10z/data=!3m1!4b1!4m5!3m4!1s0x89b6323583b8a387:0x780b190677a96873!8m2!3d39.1547426!4d-77.2405153'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 18:</p>
+  <p style="color: blue">Jeff Waldstreicher</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Montgomery+County,+MD/@39.1441197,-77.4882713,10z/data=!3m1!4b1!4m5!3m4!1s0x89b6323583b8a387:0x780b190677a96873!8m2!3d39.1547426!4d-77.2405153'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 19:</p>
+  <p style="color: blue">Benjamin F. Kramer</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Montgomery+County,+MD/@39.1441197,-77.4882713,10z/data=!3m1!4b1!4m5!3m4!1s0x89b6323583b8a387:0x780b190677a96873!8m2!3d39.1547426!4d-77.2405153'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 20:</p>
+  <p style="color: blue">William C. Smith Jr.</p>
+  <p>Year Elected: 2016</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Montgomery+County,+MD/@39.1441197,-77.4882713,10z/data=!3m1!4b1!4m5!3m4!1s0x89b6323583b8a387:0x780b190677a96873!8m2!3d39.1547426!4d-77.2405153'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 21:</p>
+  <p style="color: blue">James Rosapepe</p>
+  <p>Year Elected: 2006</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Anne+Arundel+County,+MD/@38.9744648,-76.8751072,10z/data=!3m1!4b1!4m5!3m4!1s0x89c81d08a3fbe87b:0x64855aaacef38af1!8m2!3d38.9530109!4d-76.5488232'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 22:</p>
+  <p style="color: blue">Paul G. Pinsky</p>
+  <p>Year Elected: 1994</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Prince+Georges+County,+MD/@38.8335634,-77.1581319,10z/data=!3m1!4b1!4m5!3m4!1s0x89b64bcdfea9f6a7:0x68f24b5f98fbb7fc!8m2!3d38.7849211!4d-76.8720961'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 23:</p>
+  <p style="color: blue">Ron Watson</p>
+  <p>Year Elected: 2021</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Prince+Georges+County,+MD/@38.8335634,-77.1581319,10z/data=!3m1!4b1!4m5!3m4!1s0x89b64bcdfea9f6a7:0x68f24b5f98fbb7fc!8m2!3d38.7849211!4d-76.8720961'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 24:</p>
+  <p style="color: blue">Joanne C. Benson</p>
+  <p>Year Elected: 2010</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Prince+Georges+County,+MD/@38.8335634,-77.1581319,10z/data=!3m1!4b1!4m5!3m4!1s0x89b64bcdfea9f6a7:0x68f24b5f98fbb7fc!8m2!3d38.7849211!4d-76.8720961'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 25:</p>
+  <p style="color: blue">Melony G. Griffith</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Prince+Georges+County,+MD/@38.8335634,-77.1581319,10z/data=!3m1!4b1!4m5!3m4!1s0x89b64bcdfea9f6a7:0x68f24b5f98fbb7fc!8m2!3d38.7849211!4d-76.8720961'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 26:</p>
+  <p style="color: blue">Obie Patterson</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Prince+Georges+County,+MD/@38.8335634,-77.1581319,10z/data=!3m1!4b1!4m5!3m4!1s0x89b64bcdfea9f6a7:0x68f24b5f98fbb7fc!8m2!3d38.7849211!4d-76.8720961'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 27:</p>
+  <p style="color: blue">Michael A. Jackson</p>
+  <p>Year Elected: 2021</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Calvert+County,+MD/@38.5373541,-76.6520165,11z/data=!3m1!4b1!4m5!3m4!1s0x89b77e96c14d5837:0x37e30d4f1b8af7a1!8m2!3d38.4949503!4d-76.5025742'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 28:</p>
+  <p style="color: blue">Arthur Ellis</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Charles+County,+MD/@38.4387775,-76.9927615,11z/data=!3m1!4b1!4m5!3m4!1s0x89b70fe8b5e0ee1f:0xb15902a87387e04a!8m2!3d38.5221781!4d-77.1024902'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 29:</p>
+  <p style="color: red">Jack Bailey</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Calvert+County,+MD/@38.5373541,-76.6520165,11z/data=!3m1!4b1!4m5!3m4!1s0x89b77e96c14d5837:0x37e30d4f1b8af7a1!8m2!3d38.4949503!4d-76.5025742'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 30:</p>
+  <p style="color: blue">Sarah K. Elfreth</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Anne+Arundel+County,+MD/@38.9744648,-76.8751072,10z/data=!3m1!4b1!4m5!3m4!1s0x89c81d08a3fbe87b:0x64855aaacef38af1!8m2!3d38.9530109!4d-76.5488232'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 31:</p>
+  <p style="color: red">Bryan Simonaire</p>
+  <p>Year Elected: 2006</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Anne+Arundel+County,+MD/@38.9744648,-76.8751072,10z/data=!3m1!4b1!4m5!3m4!1s0x89c81d08a3fbe87b:0x64855aaacef38af1!8m2!3d38.9530109!4d-76.5488232'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 32:</p>
+  <p style="color: blue">Pamela Beidle</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Anne+Arundel+County,+MD/@38.9744648,-76.8751072,10z/data=!3m1!4b1!4m5!3m4!1s0x89c81d08a3fbe87b:0x64855aaacef38af1!8m2!3d38.9530109!4d-76.5488232'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 33:</p>
+  <p style="color: red">Edward R. Reilly</p>
+  <p>Year Elected: 2010</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Anne+Arundel+County,+MD/@38.9744648,-76.8751072,10z/data=!3m1!4b1!4m5!3m4!1s0x89c81d08a3fbe87b:0x64855aaacef38af1!8m2!3d38.9530109!4d-76.5488232'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 34:</p>
+  <p style="color: red">Robert Cassilly</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Harford+County,+MD/@39.4879977,-76.5827869,10z/data=!3m1!4b1!4m5!3m4!1s0x89c7e744bed937f9:0xfef39fff34b98180!8m2!3d39.5838964!4d-76.3637285'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 35:</p>
+  <p style="color: red">Jason C. Gallion</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Cecil+County,+MD/@39.5416967,-76.280042,10z/data=!3m1!4b1!4m5!3m4!1s0x89c7bc4c19fb664d:0xd18e7315d9aa08fd!8m2!3d39.5739403!4d-75.946324'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 36:</p>
+  <p style="color: red">Stephen S. Hershey Jr.</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Caroline+County,+MD/@38.8895418,-76.0012847,11z/data=!3m1!4b1!4m5!3m4!1s0x89b865ae3bad3521:0x953bb7988e0c7af5!8m2!3d38.9105018!4d-75.8533954'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 37:</p>
+  <p style="color: red">Adelaide C. Eckardt</p>
+  <p>Year Elected: 2014</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Caroline+County,+MD/@38.8895418,-76.0012847,11z/data=!3m1!4b1!4m5!3m4!1s0x89b865ae3bad3521:0x953bb7988e0c7af5!8m2!3d38.9105018!4d-75.8533954'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 38:</p>
+  <p style="color: red">Mary Beth Carozza</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Somerset+County,+MD/@38.0929823,-76.1682246,10z/data=!3m1!4b1!4m5!3m4!1s0x89b9a99974266ed5:0x73a77306d51ae4fb!8m2!3d38.0862333!4d-75.8533954'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 39:</p>
+  <p style="color: blue">Nancy J. King</p>
+  <p>Year Elected: 2010</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Montgomery+County,+MD/@39.1441197,-77.4882713,10z/data=!3m1!4b1!4m5!3m4!1s0x89b6323583b8a387:0x780b190677a96873!8m2!3d39.1547426!4d-77.2405153'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 40:</p>
+  <p style="color: blue">Antonia Hayes</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore,+MD/@39.2848183,-76.6905363,12z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x44896a84223e758!8m2!3d39.2903848!4d-76.6121893'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 41:</p>
+  <p style="color: blue">Jill P. Carter</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore,+MD/@39.2848183,-76.6905363,12z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x44896a84223e758!8m2!3d39.2903848!4d-76.6121893'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 42:</p>
+  <p style="color: red">Chris West</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore+County,+MD/@39.4391567,-76.8718211,10z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x2774e0a871602819!8m2!3d39.4647665!4d-76.7336521'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 43:</p>
+  <p style="color: blue">Mary L. Washinton</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Education, Health and Environmental Affairs</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore,+MD/@39.2848183,-76.6905363,12z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x44896a84223e758!8m2!3d39.2903848!4d-76.6121893'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 44:</p>
+  <p style="color: blue">Charles E. Sydnor III</p>
+  <p>Year Elected: 2019</p>
+  <p>Committee: Judicial Proceedings</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore,+MD/@39.2848183,-76.6905363,12z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x44896a84223e758!8m2!3d39.2903848!4d-76.6121893'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 45:</p>
+  <p style="color: blue">Cory V. McCray</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Budget and Taxation</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore,+MD/@39.2848183,-76.6905363,12z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x44896a84223e758!8m2!3d39.2903848!4d-76.6121893'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 46:</p>
+  <p style="color: blue">Bill Ferguson</p>
+  <p>Year Elected: 2010</p>
+  <p>Committee: President of the Senate</p>
+  <a
+    href='https://www.google.com/maps/place/Baltimore,+MD/@39.2848183,-76.6905363,12z/data=!3m1!4b1!4m5!3m4!1s0x89c803aed6f483b7:0x44896a84223e758!8m2!3d39.2903848!4d-76.6121893'><button>Location</button></a>
+  <p> </p>
+
+  <p>District 47:</p>
+  <p style="color: blue">Malcolm Augustine</p>
+  <p>Year Elected: 2018</p>
+  <p>Committee: Finance</p>
+  <a
+    href='https://www.google.com/maps/place/Prince+Georges+County,+MD/@38.8335634,-77.1581319,10z/data=!3m1!4b1!4m5!3m4!1s0x89b64bcdfea9f6a7:0x68f24b5f98fbb7fc!8m2!3d38.7849211!4d-76.8720961'><button>Location</button></a>
+  <p> </p>
+
+
+
+
+
+  <script src="script.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script>
+</body>
+
+</html>
